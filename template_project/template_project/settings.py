@@ -26,7 +26,7 @@ SECRET_KEY = '+vw-vct1$%jm8d#x6y2ahru^z41*7o-h(mt5jcl*6&yif*vjnn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [verdantfox.pythonanywhere.com]
 
 
 # Application definition
